@@ -1,8 +1,7 @@
 # Employee Record Management System using Linked Lists
 
 ### Overview
-
-This project implements an Employee Record Management System using a linked list data structure. It’s designed to manage employee records for an organization with functionalities to insert, delete, update, and display employee details. 
+For my individual project in a Data Structure course, I implemented an Employee Record Management System using a linked list data structure. It’s designed to manage employee records for an organization with functionalities to insert, delete, update, and display employee details. 
 
 ### The System Features
 
