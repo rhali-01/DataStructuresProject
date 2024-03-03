@@ -7,14 +7,20 @@ This project implements an Employee Record Management System using a linked list
 ### The System Features
 
  • Insert Employee Record
+ 
  • Delete Employee Record
+
  • Update Employee Record
+
  • Show Employee Details
+
  • Search for an Employee
+
  • Update Salary: Automatically add 2% of the salary for every extra hour. By default, 32 hours are required for every employee. 
 
 ### Each employee record contains:
 
+ 
  • Name of Employee
  • ID of Employee
  • First Day of Work
@@ -25,4 +31,5 @@ This project implements an Employee Record Management System using a linked list
 
 ### Output result 
 
-[Download PDF](https://github.com/username/repository/blob/main/files/sample.pdf)
+([PROJECTDS_RahafAlobaidi_2006748.pdf](https://github.com/rhali-01/DataStructuresProject/files/14474259/PROJECTDS_RahafAlobaidi_2006748.pdf)
+)
