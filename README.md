@@ -22,11 +22,17 @@ This project implements an Employee Record Management System using a linked list
 
  
  • Name of Employee
+ 
  • ID of Employee
+ 
  • First Day of Work
+ 
  • Phone Number
+ 
  • Address
+ 
  • Work Hours
+ 
  • Salary
 
 ### Output result 
