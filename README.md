@@ -33,8 +33,3 @@ For my individual project in a Data Structure course, I implemented an Employee 
  • Work Hours
  
  • Salary
-
-### Output result 
-
-([PROJECTDS_RahafAlobaidi_2006748.pdf](https://github.com/rhali-01/DataStructuresProject/files/14474259/PROJECTDS_RahafAlobaidi_2006748.pdf)
-)
